@@ -8,7 +8,7 @@ If those opportunities are made public, they really aren't opportunities anymore
 driving the profit margin to essentially zero.
 ```
 
-<img src="https://i.ibb.co/7gr2143/floans.png"/>
+<img src="https://iili.io/HUNBaBs.png"/>
 
 # Sample Hardhat Project
 
